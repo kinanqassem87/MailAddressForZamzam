@@ -1,0 +1,11 @@
+c:\users\kinan\documents\visual studio 2010\Projects\MailAddressForZamzam\MailAddressForZamzam\bin\Debug\MailAddressForZamzam.exe
+c:\users\kinan\documents\visual studio 2010\Projects\MailAddressForZamzam\MailAddressForZamzam\bin\Debug\MailAddressForZamzam.pdb
+c:\users\kinan\documents\visual studio 2010\Projects\MailAddressForZamzam\MailAddressForZamzam\obj\x86\Debug\MailAddressForZamzam.Form1.resources
+c:\users\kinan\documents\visual studio 2010\Projects\MailAddressForZamzam\MailAddressForZamzam\obj\x86\Debug\MailAddressForZamzam.Properties.Resources.resources
+c:\users\kinan\documents\visual studio 2010\Projects\MailAddressForZamzam\MailAddressForZamzam\obj\x86\Debug\MailAddressForZamzam.csproj.GenerateResource.Cache
+c:\users\kinan\documents\visual studio 2010\Projects\MailAddressForZamzam\MailAddressForZamzam\obj\x86\Debug\MailAddressForZamzam.exe
+c:\users\kinan\documents\visual studio 2010\Projects\MailAddressForZamzam\MailAddressForZamzam\obj\x86\Debug\MailAddressForZamzam.pdb
+c:\users\kinan\documents\visual studio 2010\Projects\MailAddressForZamzam\MailAddressForZamzam\obj\x86\Debug\MailAddressForZamzam.AddAddress.resources
+C:\Users\kinan\documents\visual studio 2010\Projects\MailAddressForZamzam\MailAddressForZamzam\obj\x86\Debug\MailAddressForZamzam.csprojResolveAssemblyReference.cache
+C:\Users\kinan\documents\visual studio 2010\Projects\MailAddressForZamzam\MailAddressForZamzam\obj\x86\Debug\MailAddressForZamzam.UpdateAddress.resources
+C:\Users\kinan\Documents\Visual Studio 2010\Projects\MailAddressForZamzam\MailAddressForZamzam\obj\x86\Debug\MailAddressForZamzam.DetailsMail.resources
